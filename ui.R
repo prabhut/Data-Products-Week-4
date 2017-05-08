@@ -10,7 +10,7 @@ library(shiny)
 library(rCharts)
 
 shinyUI(
-    navbarPage("Storm Database Explorer",
+    navbarPage("Storm Database Explorer - Shiny Application and Reproducible Pitch",
         tabPanel("Plot",
                 sidebarPanel(
                     sliderInput("range", 
@@ -75,7 +75,7 @@ shinyUI(
         ),
           tabPanel("About",
             mainPanel(
-                includeMarkdown("include.md")
+                includeMarkdown("about.md")
             )
         )
     )
