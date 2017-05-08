@@ -22,10 +22,24 @@ output:
 
 ## Storm Database Explorer
 
+This presentation is created for the peer assessment for the coursera Developing Data Products class.
+
+The assignment is geared toward ensuring the following concepts are well understood by the students to build data product application 
+
+using Shiny App and R-Presentation or slidify to create data product related presentations
 
 
+---
 
+##The Application
 
+The purpose of this application is to display the understanding of using shiny to build a simple application called Storm Data Explorer. This has been developed and deployed at: https://tsprabhu.shinyapps.io/dpw4_shinyapp/
+
+The application allows the user to:
+
+Select the inputs such as the range of years, types of weather related events.
+
+Select the format of the output to be displayed on the map, or as a graph, or as a table and option to download the filtered data.
 
 ---
 
@@ -57,21 +71,7 @@ output:
 
 --- 
 
-## ... and it can generate cool plots
-
-
-<iframe src='
-assets/fig/nvd3plot2.html
-' scrolling='no' seamless
-class='rChart nvd3 '
-id=iframe-
-populationImpact
-></iframe>
-<style>iframe.rChart{ width: 100%; height: 400px;}</style>
-
---- 
-
 ## Are you interested?
 
-- visit us on shinyapps.io [(Week 4 Project App)](https://github.com/prabhut/Data-Products-Week-4)
-- fork on GitHub ([Developing Data Products - Week 4I](https://github.com/prabhut/Data-Products-Week-4))
+- visit us on shinyapps.io [(Week 4 Project App)](https://tsprabhu.shinyapps.io/dpw4_shinyapp/)
+- fork on GitHub ([Developing Data Products - Week 4](https://github.com/prabhut/Data-Products-Week-4))

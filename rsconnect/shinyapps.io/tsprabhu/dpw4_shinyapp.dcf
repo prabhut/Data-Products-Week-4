@@ -2,7 +2,9 @@ name: dpw4_shinyapp
 title:
 account: tsprabhu
 server: shinyapps.io
-appId: 178722
-bundleId: 818594
+appId: 178761
+bundleId: 818729
 url: https://tsprabhu.shinyapps.io/dpw4_shinyapp/
-when: 1494202734.92302
+when: 1494216003.2082
+asMultiple: FALSE
+asStatic: FALSE
