@@ -1,8 +1,8 @@
 ---
-title       : Storm Database Explorer
-subtitle    : 
+title       : Developing Data Products
+subtitle    : Week 4
 author      : Prabhu Thaipulley
-job         : 
+date        : 8th May 2017
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -13,6 +13,11 @@ output:
   revealjs::revealjs_presentation:
     incremental: true
     theme: sky
+    center: true
+  reveal_options:
+      slideNumber: true
+      previewLinks: true   
+  
 --- 
 
 # Storm Database Explorer
